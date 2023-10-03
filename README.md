@@ -9,7 +9,7 @@
 
 
 
-**Install**
+**Run**
 
 
  *python3 -i(targetip) -r(routerip) -t(timeout)*

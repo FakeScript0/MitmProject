@@ -1,4 +1,4 @@
-# Mim Project
+# Mitm Project
 **pip install scapy**
 **pip install subprocess**
 **pip install optparse**
